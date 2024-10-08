@@ -1,0 +1,9 @@
+/Users/derrickbinangbang/Documents/Code Projects/Activities/SearchAlgorithm/AliacSearchAlgo/bin/Debug/AliacSearchAlgo.exe
+/Users/derrickbinangbang/Documents/Code Projects/Activities/SearchAlgorithm/AliacSearchAlgo/bin/Debug/AliacSearchAlgo.pdb
+/Users/derrickbinangbang/Documents/Code Projects/Activities/SearchAlgorithm/AliacSearchAlgo/obj/Debug/AliacSearchAlgo.csproj.AssemblyReference.cache
+/Users/derrickbinangbang/Documents/Code Projects/Activities/SearchAlgorithm/AliacSearchAlgo/obj/Debug/AliacSearchAlgo.Form1.resources
+/Users/derrickbinangbang/Documents/Code Projects/Activities/SearchAlgorithm/AliacSearchAlgo/obj/Debug/AliacSearchAlgo.Properties.Resources.resources
+/Users/derrickbinangbang/Documents/Code Projects/Activities/SearchAlgorithm/AliacSearchAlgo/obj/Debug/AliacSearchAlgo.csproj.GenerateResource.cache
+/Users/derrickbinangbang/Documents/Code Projects/Activities/SearchAlgorithm/AliacSearchAlgo/obj/Debug/AliacSearchAlgo.csproj.CoreCompileInputs.cache
+/Users/derrickbinangbang/Documents/Code Projects/Activities/SearchAlgorithm/AliacSearchAlgo/obj/Debug/AliacSearchAlgo.exe
+/Users/derrickbinangbang/Documents/Code Projects/Activities/SearchAlgorithm/AliacSearchAlgo/obj/Debug/AliacSearchAlgo.pdb
